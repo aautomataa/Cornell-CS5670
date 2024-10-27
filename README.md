@@ -1,2 +1,2 @@
 # Cornell-CS5670
-self-learning program
+https://www.cs.cornell.edu/courses/cs5670/2024sp/
